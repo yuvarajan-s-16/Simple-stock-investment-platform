@@ -1,0 +1,1 @@
+# Simple-stock-investment-platform
