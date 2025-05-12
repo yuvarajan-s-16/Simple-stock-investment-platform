@@ -1,0 +1,11 @@
+.withdrawInput{
+    width: calc(1ch + 10px); /* Minimum width based on content */
+    /* max-width: 300px; */
+    /* width: auto; */
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
